@@ -1,3 +1,4 @@
+import Navbar from "@/components/Navbar";
 import { Metadata } from "next";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
@@ -24,6 +25,7 @@ export default async function LocaleLayout({
     <html lang={locale}>
       <body className={inter.className}>
         <NextIntlClientProvider messages={messages}>
+          <Navbar />
           {children}
         </NextIntlClientProvider>
       </body>

@@ -1,4 +1,11 @@
 {
+  "navbar": {
+    "home": "Home",
+    "tour": "Tours",
+    "about": "About Us",
+    "contact": "Contacts"
+  },
+
   "HomePage": {
     "title": "Hello world!"
   }

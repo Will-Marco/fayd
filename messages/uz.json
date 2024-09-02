@@ -1,4 +1,11 @@
 {
+  "navbar": {
+    "home": "Bosh sahifa",
+    "tour": "Sayohatlar",
+    "about": "Biz haqimizda",
+    "contact": "Kontaktlar"
+  },
+
   "HomePage": {
     "title": "Salom dunyo!"
   }
