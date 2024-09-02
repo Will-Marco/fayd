@@ -23,7 +23,7 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale}>
-      <body className={inter.className}>
+      <body className={inter.className + " bg-gray-50"}>
         <NextIntlClientProvider messages={messages}>
           <Navbar />
           {children}

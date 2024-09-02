@@ -6,7 +6,9 @@
     "contact": "Kontaktlar"
   },
 
-  "HomePage": {
-    "title": "Salom dunyo!"
+  "hero": {
+    "slug": "Fayd bilan hayotni o'zgartiruvchi sayohatlar",
+    "description": "Biz bilan siz ilgari faqat orzu qilganingiz ajoyib joylarni kashf qilasiz. Har bir joyni noyob qiladigan madaniyat, tabiat va tarixga sho'ng'ib, dunyoning go'zalligidan zavqlaning. Har bir sayohatingiz unutilmas va yorqin taassurotlarga to'la bo'lsin.",
+    "button": "Sayohatni bronlash"
   }
 }
