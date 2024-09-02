@@ -17,7 +17,7 @@ export default function Hero() {
           className="md:max-h-[50vh] object-cover"
           priority
         />
-        <div className="max-w-[95%] md:max-w-[90vw] lg:max-w-[80vw] xl:max-w-[70vw] absolute text-center p-4 md:px-10 md:py-8 lg:py-10 rounded-2xl bg-black/40">
+        <div className="max-w-[95%] md:max-w-[90vw] lg:max-w-[80vw] xl:max-w-[70vw] absolute text-center p-4 md:px-10 md:py-8 lg:py-10 rounded-2xl glassmorphism">
           <h1 className="text-4xl md:text-6xl font-bold">{t("slug")}</h1>
           <p className="mt-4 text-lg md:text-xl max-w-xl mx-auto">
             {t("description")}
