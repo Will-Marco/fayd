@@ -17,5 +17,23 @@
     "card2": "So'rov yuboring, biz sizga sayohatni tanlab beramiz",
     "card3": "Sayohatni istalgan qulay usulda to'lang",
     "card4": "Sayohat hujjatlarini elektron pochta orqali oling"
+  },
+
+  "tours": {
+    "slug": "Sizning mukammal sayohatingiz bu yerdan boshlanadi",
+    "description": "Fayd-da biz sayyoramizning xilma-xilligi va boyligini aks ettiruvchi sayohatlar to'plamini tuzdik. Qadimiy shaharlardan tortib, qo'riqlanmagan tabiiy hududlargacha — bizda har bir kishi uchun sayohat bor. Biz bilan dunyoni o'rganing va o'zingiz uchun mukammal marshrutni tanlang:",
+    "malaysia": "Malayziya",
+    "malaysia-description": "Bu yerda qadimiy ibodatxonalar, mustamlaka shaharlar, tropik o'rmonlar va go'zal plyajlarni topishingiz mumkin.",
+    "qatar": "Qatar",
+    "qatar-description": "Qatar osmono'par binolar, hashamatli do'konlar va qimmatbaho avtomobillar bilan mashhur boy mamlakat.",
+    "thailand": "Tailand",
+    "thailand-description": "Tailand orollari, go'zal plyajlari, madaniyati va boy taomlari bilan mashhur.",
+    "egypt": "Misr",
+    "egypt-description": "Shimoli-sharqiy Afrikadagi mamlakat, qadimiy tarixi va madaniy merosi bilan mashhur.",
+    "turkey": "Turkiya",
+    "turkey-description": "O'rtayer dengizi bo'yidagi qirg'oqlari va boy tarixi bilan mashhur, bu yerda siz ajoyib madaniyat va mazali turk oshxonasidan bahramand bo'lishingiz mumkin.",
+    "dubai": "Dubay",
+    "dubai-description": "Birlashgan Arab Amirliklarining eng katta shahri bo'lib, u baland osmono'par binolari, hashamatli savdo markazlari va ajoyib tematik parklari bilan mashhur.",
+    "button": "Xarid qilish"
   }
 }

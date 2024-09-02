@@ -17,5 +17,23 @@
     "card2": "Send a request and we will select a tour for you",
     "card3": "Pay for the tour in any convenient way",
     "card4": "Receive tour documents by email"
+  },
+
+  "tours": {
+    "slug": "Your perfect tour starts here",
+    "description": "At Fayd, we have put together a collection of tours that reflect the diversity and richness of our planet. From ancient cities to untouched nature reserves, we have a tour for everyone. Explore the world with us and choose your perfect itinerary:",
+    "malaysia": "Malaysia",
+    "malaysia-description": "Here you can find ancient temples, colonial cities, tropical forests and beautiful beaches.",
+    "qatar": "Qatar",
+    "qatar-description": "Qatar is a wealthy country known for its skyscrapers, luxury shops and expensive cars.",
+    "thailand": "Thailand",
+    "thailand-description": "Thailand is famous for its islands, picturesque beaches, culture and rich cuisine.",
+    "egypt": "Egypt",
+    "egypt-description": "A country in northeastern Africa, known for its ancient history and cultural heritage.",
+    "turkey": "Türkiye",
+    "turkey-description": "Famous for its Mediterranean coastline and rich history, you can enjoy the magnificent culture and delicious Turkish cuisine.",
+    "dubai": "Dubai",
+    "dubai-description": "The largest city in the UAE, famous for its tall skyscrapers, luxurious shopping malls and amazing theme parks.",
+    "button": "Buy tour"
   }
 }

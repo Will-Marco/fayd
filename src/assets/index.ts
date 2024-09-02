@@ -1,0 +1,6 @@
+export {default as malaysiaImage} from "./tours/malaysia.jpg"
+export {default as dubaiImage} from "./tours/dubai.jpg"
+export {default as egyptImage} from "./tours/egypt.jpg"
+export {default as qatarImage} from "./tours/qatar.jpg"
+export {default as thailandImage} from "./tours/thailand.jpg"
+export {default as turkeyImage} from "./tours/turkey.jpg"

@@ -1,10 +1,11 @@
-import { Hero, Info } from "@/components/views";
+import { Hero, Info, Tours } from "@/components/views";
 
 export default function HomePage() {
   return (
     <>
       <Hero />
       <Info />
+      <Tours />
     </>
   );
 }
