@@ -10,5 +10,12 @@
     "slug": "Life-Changing Trips with Fayd",
     "description": "With us, you will discover amazing corners of the planet that you could only dream of before. Enjoy the beauty of the world, immersing yourself in the culture, nature and history that make each place unique. Let each of your trips be unforgettable and full of vivid impressions.",
     "button": "Book a tour"
+  },
+
+  "info": {
+    "card1": "Choose the best price for the tour on our website",
+    "card2": "Send a request and we will select a tour for you",
+    "card3": "Pay for the tour in any convenient way",
+    "card4": "Receive tour documents by email"
   }
 }
