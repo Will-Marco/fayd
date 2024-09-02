@@ -1,4 +1,3 @@
-import heroBg from "@/assets/hero-bg.png";
 import { Phone } from "lucide-react";
 import { useTranslations } from "next-intl";
 import CustomImage from "../CustomImage";
@@ -9,12 +8,14 @@ export default function Hero() {
 
   return (
     <>
-      <section id="#" className="relative w-full h-[90vh] md:h-[50vh] flex items-center justify-center text-white">
+      <section
+        id="#"
+        className="relative w-full h-[90vh] md:h-[50vh] flex items-center justify-center text-white"
+      >
         <CustomImage
-          src={heroBg.src}
+          src="/images/hero-bg.png"
           alt="Beautiful lake and mountains"
-          layout="fill"
-          className="md:max-h-[50vh] object-cover"
+          className="object-cover"
           priority
         />
         <div className="max-w-[95%] md:max-w-[90vw] lg:max-w-[80vw] xl:max-w-[70vw] absolute text-center p-4 md:px-10 md:py-8 lg:py-10 rounded-2xl glassmorphism">
