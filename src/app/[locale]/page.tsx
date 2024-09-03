@@ -1,6 +1,7 @@
 import {
   About,
   Address,
+  Footer,
   Gallery,
   Hero,
   Info,
@@ -20,6 +21,7 @@ export default function HomePage() {
       <Gallery />
       <Reasons />
       <Address />
+      <Footer />
     </>
   );
 }

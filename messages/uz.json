@@ -71,5 +71,21 @@
     "description": "Mutaxassislarimiz dushanbadan shanbagacha 8:00 dan 20:00 gacha sizning savollaringizga javob bera oladi",
     "address": "Toshkent shahri, Yunusobod, Kaddon MFY, Yunusota ko'chasi, 25B-uy",
     "director": "Direktor"
+  },
+
+  "footer": {
+    "text": "Biz ilhomlantiradigan, yangi ufqlarni ochadigan va dunyoni har bir mijozimiz uchun yanada qulayroq qiladigan noyob sayohatlar yaratishga intilamiz.",
+    "navigation": "Navigatsiya",
+    "link-1": "Bosh sahifa",
+    "link-2": "Sayohatlar",
+    "link-3": "Biz haqimizda",
+    "link-4": "Kontaktlar",
+    "contacts": "Kontaktlar",
+    "request": "Qo'ng'iroq so'rash",
+    "write": "Bizga yozing",
+    "address": "Toshkent shahri, Yunusobod",
+    "sub-address": "Qadirdon MFY, Yunusota ko'chasi, 25B-uy",
+    "copy": "Barcha huquqlar himoyalangan",
+    "development": "Ishlab chiqaruvchi"
   }
 }

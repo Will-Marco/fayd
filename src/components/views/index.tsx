@@ -6,3 +6,4 @@ export { default as About } from "./About";
 export { default as Gallery } from "./Gallery"
 export { default as Reasons } from "./Reasons"
 export { default as Address } from "./Address"
+export { default as Footer } from "./Footer"

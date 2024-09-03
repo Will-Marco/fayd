@@ -71,5 +71,21 @@
     "description": "Our specialists will be able to answer your questions from Mon to Sat from 8:00 to 20:00",
     "address": "Tashkent city, Yunusabad, Kaddon MFY, Yunusota street, 25B-house",
     "director": "Director"
+  },
+
+  "footer": {
+    "text": "We strive to create unique journeys that inspire, open new horizons and make the world more accessible to each of our clients.",
+    "navigation": "Navigation",
+    "link-1": "Home",
+    "link-2": "Tours",
+    "link-3": "About Us",
+    "link-4": "Contacts",
+    "contacts": "Contacts",
+    "request": "Request a call",
+    "write": "Write to us",
+    "address": "Tashkent city, Yunusabad",
+    "sub-address": "Kadirdon MFI, Yunusota street, 25B-house",
+    "copy": "All rights reserved",
+    "development": "Development"
   }
 }
