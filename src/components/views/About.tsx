@@ -6,18 +6,17 @@ export default function About() {
   return (
     <section
       id="about"
-      className="container md:h-[80vh] mx-auto px-4 md:py-8 flex max-md:flex-col gap-4"
+      className="container mx-auto px-4 py-8 flex max-lg:flex-col gap-4"
     >
-      <div className="md:w-1/2">
+      <div className="lg:w-1/2">
         <CustomImage
           alt="map"
           src="/images/about.png"
           width={0}
           height={0}
-          className="max-md:flex max-xl:hidden"
         />
       </div>
-      <div className="md:w-1/2 flex flex-col justify-center gap-2">
+      <div className="lg:w-1/2 max-lg:pt-4 flex flex-col justify-center gap-2">
         <h1 className="mb-2 text-3xl font-semibold italic">{t("title")}</h1>
         {t("description")
           .split("\n")

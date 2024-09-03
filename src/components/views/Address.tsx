@@ -16,7 +16,7 @@ export default function Address() {
 
   return (
     <section
-      id="contact"
+      id="contacts"
       className="container mx-auto px-4 md:py-8 flex max-md:flex-col justify-center gap-4"
     >
       <div className="md:w-1/2 lg:w-1/3 p-6">

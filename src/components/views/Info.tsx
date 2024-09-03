@@ -14,7 +14,7 @@ export default function Info() {
 
   return (
     <div className="bg-orange-500 px-4 md:py-8">
-      <div className="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-4 md:gap-6 text-center text-white">
+      <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-4 md:gap-6 text-center text-white">
         {cards.map((item: JSX.Element, idx: number) => (
           <InfoCard key={idx} text={t(`card${idx + 1}`)} icon={item} />
         ))}

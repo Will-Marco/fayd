@@ -7,10 +7,9 @@ export default function Hero() {
   const t = useTranslations("hero");
 
   return (
-    <>
       <section
         id="#"
-        className="relative w-full h-[90vh] md:h-[50vh] flex items-center justify-center text-white"
+        className="mt-[5rem] relative w-full h-[90vh] md:h-[50vh] flex items-center justify-center text-white"
       >
         <CustomImage
           src="/images/hero-bg/hero-bg-w_1400.png"
@@ -61,6 +60,5 @@ export default function Hero() {
           </div>
         </div>
       </section>
-    </>
   );
 }
