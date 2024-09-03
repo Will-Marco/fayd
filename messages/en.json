@@ -51,5 +51,18 @@
   "gallery": {
     "title": "Gallery",
     "description": "We pay special attention to the choice of places and routes so that our clients can not only relax, but also get unforgettable impressions and photos as a keepsake."
+  },
+
+  "reasons": {
+    "title": "4 reasons to choose our travel agency",
+    "description": "We guarantee high quality service and the best service for our clients to make their trip as comfortable as possible.",
+    "card-1": "Wide choice of destinations",
+    "card-description-1": "Fayd offers a variety of routes and destinations, allowing you to explore the world in all its diversity.",
+    "card-2": "Reliability and trust",
+    "card-description-2": "We value your trust and guarantee that every journey with us will be flawless and unforgettable.",
+    "card-3": "High level of service",
+    "card-description-3": "Our team of professionals ensures complete comfort and safety at every stage of your journey.",
+    "card-4": "Individual approach",
+    "card-description-": "We take into account all your wishes and offer unique tours created especially for you."
   }
 }

@@ -4,3 +4,4 @@ export { default as Tours } from "./Tours";
 export { default as LeaveNumber } from "./LeaveNumber";
 export { default as About } from "./About";
 export { default as Gallery } from "./Gallery"
+export { default as Reasons } from "./Reasons"

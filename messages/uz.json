@@ -51,5 +51,18 @@
   "gallery": {
     "title": "Galereya",
     "description": "Biz mijozlarimiz nafaqat dam olishlari, balki unutilmas taassurotlar va yodgorlik uchun suratlar olishlari uchun joylar va marshrutlarni tanlashga alohida e'tibor beramiz."
+  },
+
+  "reasons": {
+    "title": "Bizning sayohat agentligimizni tanlash uchun 4 sabab",
+    "description": "Biz yuqori sifatli xizmat va eng yaxshi xizmatni kafolatlaymiz, mijozlarimizning sayohatini imkon qadar qulay qilish uchun.",
+    "card-1": "Keng tanlovdagi manzillar",
+    "card-description-1": "Fayd sizga dunyoni uning xilma-xilligida kashf etish imkoniyatini beradigan turli marshrutlar va manzillarni taklif etadi.",
+    "card-2": "Ishonchlilik va ishonch",
+    "card-description-2": "Biz sizning ishonchingizni qadrlaymiz va har bir sayohatimiz mukammal va unutilmas bo'lishini kafolatlaymiz.",
+    "card-3": "Yuqori darajadagi xizmat",
+    "card-description-3": "Bizning professional jamoamiz sayohatingizning har bir bosqichida to'liq qulaylik va xavfsizlikni ta'minlaydi.",
+    "card-4": "Individual yondashuv",
+    "card-description-4": "Biz sizning barcha istaklaringizni inobatga olamiz va aynan siz uchun yaratilgan noyob sayohatlarni taklif etamiz."
   }
 }
