@@ -7,7 +7,7 @@ import { ComponentProps, ReactNode } from "react";
 
 export function Nav({ children }: { children: ReactNode }) {
   return (
-    <nav className="w-full h-[5rem] md:px-4 max-lg:px-6 fixed top-0 flex items-center bg-gray-50 shadow-xl text-primary-foreground z-20">
+    <nav className="w-full h-[5rem] md:px-4 fixed top-0 flex items-center bg-gray-50 shadow-xl text-primary-foreground z-20">
       <div className="container mx-auto px-4 flex justify-between items-center">{children}</div>
     </nav>
   );

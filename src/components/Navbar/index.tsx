@@ -4,7 +4,6 @@ import logo from "@/assets/logo.png";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import Link from "next/link";
-import ScrollSpy from "react-scrollspy-navigation";
 import LocalSwitcher from "../Local-switcher";
 import { Button } from "../ui/button";
 import { Nav, NavLink } from "./Navbar-detail";
@@ -26,14 +25,12 @@ export default function Navbar() {
       <Link href={"/"}>
         <Image src={logo} alt="logo" width={150} height={30} />
       </Link>
-      <div className="hidden lg:flex items-center gap-4">
-        <ScrollSpy activeClass="text-blue-700" offsetTop={100}>
-          {navLinks.map((link) => (
-            <NavLink key={link.href} href={link.href}>
-              {link.label}
-            </NavLink>
-          ))}
-        </ScrollSpy>
+      <div className="hidden lg:flex items-center gap-2">
+        {navLinks.map((link) => (
+          <NavLink key={link.href} href={link.href}>
+            {link.label}
+          </NavLink>
+        ))}
         <LocalSwitcher />
         <Button className="bg-blue-700 hover:bg-blue-800 transition-all">
           Leave a request
