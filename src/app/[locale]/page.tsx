@@ -1,4 +1,13 @@
-import { About, Gallery, Hero, Info, LeaveNumber, Reasons, Tours } from "@/components/views";
+import {
+  About,
+  Address,
+  Gallery,
+  Hero,
+  Info,
+  LeaveNumber,
+  Reasons,
+  Tours,
+} from "@/components/views";
 
 export default function HomePage() {
   return (
@@ -10,6 +19,7 @@ export default function HomePage() {
       <About />
       <Gallery />
       <Reasons />
+      <Address />
     </>
   );
 }

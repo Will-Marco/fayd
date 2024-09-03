@@ -64,5 +64,12 @@
     "card-description-3": "Bizning professional jamoamiz sayohatingizning har bir bosqichida to'liq qulaylik va xavfsizlikni ta'minlaydi.",
     "card-4": "Individual yondashuv",
     "card-description-4": "Biz sizning barcha istaklaringizni inobatga olamiz va aynan siz uchun yaratilgan noyob sayohatlarni taklif etamiz."
+  },
+
+  "address": {
+    "title": "Bizning manzilimiz",
+    "description": "Mutaxassislarimiz dushanbadan shanbagacha 8:00 dan 20:00 gacha sizning savollaringizga javob bera oladi",
+    "address": "Toshkent shahri, Yunusobod, Kaddon MFY, Yunusota ko'chasi, 25B-uy",
+    "director": "Direktor"
   }
 }

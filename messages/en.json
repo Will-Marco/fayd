@@ -64,5 +64,12 @@
     "card-description-3": "Our team of professionals ensures complete comfort and safety at every stage of your journey.",
     "card-4": "Individual approach",
     "card-description-4": "We take into account all your wishes and offer unique tours created especially for you."
+  },
+
+  "address": {
+    "title": "Our address",
+    "description": "Our specialists will be able to answer your questions from Mon to Sat from 8:00 to 20:00",
+    "address": "Tashkent city, Yunusabad, Kaddon MFY, Yunusota street, 25B-house",
+    "director": "Director"
   }
 }
