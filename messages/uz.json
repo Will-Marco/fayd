@@ -46,5 +46,10 @@
   "about": {
     "title": "Biz haqimizda",
     "description": "Fayd — bu sizning ishonchli sayohat hamkoringiz. Biz yangi ufqlarni kashf etish va unutilmas taassurotlar olish imkonini beruvchi noyob va esda qolarli sayohatlarni yaratishga ixtisoslashganmiz.\nFayd bilan siz boshqa mamlakatlarning madaniyati va anʼanalariga sho'ng'ib, go'zal joylarga tashrif buyurishingiz va munosib dam olishdan zavqlanishingiz mumkin. Biz har bir mijoz haqida qayg'uramiz va sayohatingizni beqiyos qilishni kafolatlaymiz.\nBizning vazifamiz har bir sayohatingizni qulay va xavfsiz qilish, shuningdek, sarguzashtingizning har bir bosqichida yuqori darajadagi xizmatni taqdim etishdir. Fayd jamoasi o'z ishini sevuvchi va sizning istak va ehtiyojlaringizga moslashtirilgan yechimlarni taklif qilishga doim tayyor bo'lgan mutaxassislardan iborat."
+  },
+
+  "gallery": {
+    "title": "Galereya",
+    "description": "Biz mijozlarimiz nafaqat dam olishlari, balki unutilmas taassurotlar va yodgorlik uchun suratlar olishlari uchun joylar va marshrutlarni tanlashga alohida e'tibor beramiz."
   }
 }
