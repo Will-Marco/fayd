@@ -12,7 +12,7 @@ export default function ToursCard({ image, city, description }: PropsType) {
   const t = useTranslations("tours");
   return (
     <div className="relative h-[60vh] overflow-hidden rounded-2xl shadow-lg bg-white">
-      <CustomImage alt={city} src={image} className="object-cover" priority />
+      <CustomImage alt={city} src={image} className="object-cover" priority fill/>
       <div className="p-4 absolute bottom-0 flex flex-col justify-end text-white bg-gradient-to-t from-black to-transparent glassmorphism z-10">
         <h2 className="font-bold text-xl mb-2 capitalize">{city}</h2>
         <p className="text-base mb-4 line-clamp-2">{description}</p>

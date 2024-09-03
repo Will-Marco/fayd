@@ -12,6 +12,9 @@ interface CustomImageProps {
   fill?: boolean;
   className?: string;
   priority?: boolean;
+  sizes?: string;
+  srcSet?: string;
+  props?: any;
 }
 
 const CustomImage: React.FC<CustomImageProps> = ({
@@ -21,23 +24,31 @@ const CustomImage: React.FC<CustomImageProps> = ({
   height,
   className,
   priority = false,
+  sizes,
+  srcSet,
+  props,
+  fill,
 }) => {
   const [isLoading, setIsLoading] = useState(true);
 
   return (
-      <Image
-        src={src}
-        alt={alt}
-        width={width}
-        height={height}
-        layout="fill"
-        className={cn(
-          "duration-700 ease-in-out",
-          isLoading ? "blur-2xl scale-110" : "blur-0 scale-100", className
-        )}
-        onLoad={() => setIsLoading(false)}
-        priority={priority}
-      />
+    <Image
+      src={src}
+      alt={alt}
+      width={width}
+      height={height}
+      layout={fill ? "fill" : "responsive"}
+      className={cn(
+        "duration-700 ease-in-out",
+        isLoading ? "blur-2xl scale-110" : "blur-0 scale-100",
+        className
+      )}
+      onLoad={() => setIsLoading(false)}
+      priority={priority}
+      sizes={sizes}
+      srcSet={srcSet}
+      {...props}
+    />
   );
 };
 
