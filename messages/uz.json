@@ -41,5 +41,10 @@
     "slug": "Raqamingizni qoldiring",
     "description": "Biz har doim sizga mukammal sayohatni rejalashtirishda yordam berishga tayyormiz. Agar sizda savollar, takliflar yoki so'rovlar bo'lsa, iltimos, quyidagi shaklni to'ldiring. Yaqinda siz bilan bog'lanamiz!",
     "button": "So'rov qoldiring"
+  },
+
+  "about": {
+    "title": "Biz haqimizda",
+    "description": "Fayd — bu sizning ishonchli sayohat hamkoringiz. Biz yangi ufqlarni kashf etish va unutilmas taassurotlar olish imkonini beruvchi noyob va esda qolarli sayohatlarni yaratishga ixtisoslashganmiz.\nFayd bilan siz boshqa mamlakatlarning madaniyati va anʼanalariga sho'ng'ib, go'zal joylarga tashrif buyurishingiz va munosib dam olishdan zavqlanishingiz mumkin. Biz har bir mijoz haqida qayg'uramiz va sayohatingizni beqiyos qilishni kafolatlaymiz.\nBizning vazifamiz har bir sayohatingizni qulay va xavfsiz qilish, shuningdek, sarguzashtingizning har bir bosqichida yuqori darajadagi xizmatni taqdim etishdir. Fayd jamoasi o'z ishini sevuvchi va sizning istak va ehtiyojlaringizga moslashtirilgan yechimlarni taklif qilishga doim tayyor bo'lgan mutaxassislardan iborat."
   }
 }
