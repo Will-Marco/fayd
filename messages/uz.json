@@ -35,5 +35,11 @@
     "dubai": "Dubay",
     "dubai-description": "Birlashgan Arab Amirliklarining eng katta shahri bo'lib, u baland osmono'par binolari, hashamatli savdo markazlari va ajoyib tematik parklari bilan mashhur.",
     "button": "Xarid qilish"
+  },
+
+  "leave-number": {
+    "slug": "Raqamingizni qoldiring",
+    "description": "Biz har doim sizga mukammal sayohatni rejalashtirishda yordam berishga tayyormiz. Agar sizda savollar, takliflar yoki so'rovlar bo'lsa, iltimos, quyidagi shaklni to'ldiring. Yaqinda siz bilan bog'lanamiz!",
+    "button": "So'rov qoldiring"
   }
 }

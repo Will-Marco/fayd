@@ -35,5 +35,11 @@
     "dubai": "Dubai",
     "dubai-description": "The largest city in the UAE, famous for its tall skyscrapers, luxurious shopping malls and amazing theme parks.",
     "button": "Buy tour"
+  },
+
+  "leave-number": {
+    "slug": "Leave your number",
+    "description": "We are always happy to help you plan your perfect trip. If you have any questions, suggestions or requests, please fill out the form below. We will contact you shortly!",
+    "button": "Leave a request"
   }
 }

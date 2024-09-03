@@ -1,4 +1,4 @@
-import { Hero, Info, Tours } from "@/components/views";
+import { Hero, Info, LeaveNumber, Tours } from "@/components/views";
 
 export default function HomePage() {
   return (
@@ -6,6 +6,7 @@ export default function HomePage() {
       <Hero />
       <Info />
       <Tours />
+      <LeaveNumber />
     </>
   );
 }
