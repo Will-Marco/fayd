@@ -20,21 +20,21 @@
   },
 
   "tours": {
-    "slug": "Sizning mukammal sayohatingiz bu yerdan boshlanadi",
-    "description": "Fayd-da biz sayyoramizning xilma-xilligi va boyligini aks ettiruvchi sayohatlar to'plamini tuzdik. Qadimiy shaharlardan tortib, qo'riqlanmagan tabiiy hududlargacha — bizda har bir kishi uchun sayohat bor. Biz bilan dunyoni o'rganing va o'zingiz uchun mukammal marshrutni tanlang:",
-    "malaysia": "Malayziya",
-    "malaysia-description": "Bu yerda qadimiy ibodatxonalar, mustamlaka shaharlar, tropik o'rmonlar va go'zal plyajlarni topishingiz mumkin.",
-    "qatar": "Qatar",
-    "qatar-description": "Qatar osmono'par binolar, hashamatli do'konlar va qimmatbaho avtomobillar bilan mashhur boy mamlakat.",
-    "thailand": "Tailand",
-    "thailand-description": "Tailand orollari, go'zal plyajlari, madaniyati va boy taomlari bilan mashhur.",
-    "egypt": "Misr",
-    "egypt-description": "Shimoli-sharqiy Afrikadagi mamlakat, qadimiy tarixi va madaniy merosi bilan mashhur.",
-    "turkey": "Turkiya",
-    "turkey-description": "O'rtayer dengizi bo'yidagi qirg'oqlari va boy tarixi bilan mashhur, bu yerda siz ajoyib madaniyat va mazali turk oshxonasidan bahramand bo'lishingiz mumkin.",
-    "dubai": "Dubay",
-    "dubai-description": "Birlashgan Arab Amirliklarining eng katta shahri bo'lib, u baland osmono'par binolari, hashamatli savdo markazlari va ajoyib tematik parklari bilan mashhur.",
-    "button": "Xarid qilish"
+    "slug": "Sizning ideal sayohatingiz shu yerdan boshlanadi",
+    "description": "Fayd-da biz sayyoramizning xilma-xilligi va boyligini aks ettiradigan sayohatlar to‘plamini tayyorladik. Qadimgi shaharlardan to pokiza tabiat qo‘riqxonalarigacha, bizda har bir kishiga mos tur mavjud. Biz bilan dunyoni kashf qiling va o'zingizning ideal marshrutingizni tanlang:",
+    "malaysia": "Aral dengizi sayohati",
+    "malaysia-description": "Oʻzbekiston va Qozogʻiston chegarasida joylashgan Aral dengiziga 2 kunlik sarguzasht sayohati. Yarim asr oldin bu yopiq sho'r suv ko'li edi, Aral dengizi dunyo ko'llari orasida maydoni bo'yicha 4-o'rinda edi.",
+    "qatar": "Hisor sarguzashtlari",
+    "qatar-description": "Hisorga qiziqarli trekking sayohati. Siz bu joylarning flora va faunasidan hayratda qolasiz. Osmon tomon deyarli 4 km balandlikka cho'zilgan ulkan cho'qqilar bu hududni kuchli shamollardan va Markaziy Osiyo tabiatiga xos bo'lgan issiqlikdan himoya qiladi. Bu erda yozda ham muzliklarning salqin nafasi esib turadi. Siz bunday go'zallikni boshqa hech qaerda ko'rmaysiz.",
+    "thailand": "Klassik O'zbekiston",
+    "thailand-description": "Ushbu 10 kunlik tur O'zbekistonning to'liq manzarasini taqdim etadi. Xiva – ochiq osmon ostidagi go'zal muzey shahariga sayohat qiling, “Arab kechasi”dan ko‘chib o‘tilganday, dunyoning markazi bo‘lgan, hozirda YuNESKOning Butunjahon merosi ro‘yxatiga kirgan 2500 yildan oshiq tarixga ega bo‘lgan Buxoroga qoyil qoling. Va, albatta, afsonaviy Samarqandni kashf eting.",
+    "egypt": "Xivadan Do'zax darvozasi sayohati",
+    "egypt-description": "Turkmanistonga qisqa tunda sayohat va uning ikkita asosiy diqqatga sazovor joylariga tashrif: qadimiy Ko'neurganj shahri va Darvaza gaz krateri, Do'zax darvozasi deb ataladi. Eron va Afg'oniston o'rtasida strategik jihatdan joylashgan Turkmaniston sizni bir nechta yovvoyi sayohat daqiqalari bilan hayratda qoldiradi. Bu yerdagi sayohatlar ko'p sayyohlar uchun emas.",
+    "turkey": "O'zbekiston halqasi",
+    "turkey-description": "Ushbu marshrut O'zbekiston va Qoraqalpog'istonning mashhur joylarini qamrab oladi. Ushbu tur doirasida siz O'zbekistonning 7 ta shahriga 12 kun ichida tashrif buyurasiz. Qoraqalpog'istonga sayohat davomida siz sayyoramizning eng yomon ekologik falokatini – qurib borayotgan Aral dengizini va Moʻynoqdagi kema qabristonini koʻrish imkoniyatiga ega boʻlasiz.",
+    "dubai": "Buxoro va Samarqand",
+    "dubai-description": "Bu qisqa, ammo juda keng qamrovli 4 kunlik sayohat o'rta asrlarning kuchli sulolalari hukmronlik davrlari me'moriy yodgorliklarini saqlab qolgan qadimiy shaharlar – Buxoro va Samarqand atmosferasiga sho'ng'ish uchun noyob imkoniyatdir.",
+    "button": "Tur sotib oling"
   },
 
   "leave-number": {
