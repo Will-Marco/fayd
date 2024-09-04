@@ -9,7 +9,11 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Fayd - Fly after your dreams",
-  description: "Fly after your dreams",
+  icons: "/images/favicon.ico",
+  keywords:
+    "Uzbekistan, Central Asia, travel, tour, tour to Uzbekistan, travel agency, tour operator, Kazakhstan, Turkmenistan, Kyrgyzstan, Tajikistan, Samarkand, Bukhara, Khiva, Aral sea",
+  description:
+    "Planning a trip to Uzbekistan and Central Asia? Check the best tours to Uzbekistan both on group and individual basis. Check prices, get advice and explore the various programs for tourists with any interest.",
 };
 
 export default async function LocaleLayout({
